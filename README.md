@@ -1,4 +1,4 @@
-## :man_technologist: Arthur Ottoni
+## :man_technologist: Arthur Ottoni Ribeiro
 
 <a href="https://gifer.com/en/Dtf">
   <img align="right" src="https://media.giphy.com/media/KPoshFGwIOOpNtTOw3/giphy.gif" width=35% height=30% margin-top= 2rem />
