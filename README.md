@@ -1,13 +1,13 @@
 ## :man_technologist: Arthur Ottoni
 
 <a href="https://gifer.com/en/Dtf">
-  <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=35% height=30% margin-top= 2rem />
+  <img align="right" src="https://media.giphy.com/media/KPoshFGwIOOpNtTOw3/giphy.gif" width=35% height=30% margin-top= 2rem />
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur.Ottoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cabral-2730731a4/)](https://www.linkedin.com/in/arthur-cabral-2730731a4/)
-[![Gmail Badge](https://img.shields.io/badge/-Contato.Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ah.cbrl1@gmail.com)]
-[![Instagram Badge](https://img.shields.io/badge/-ottoni.arthur-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arthur.cabrl/)](https://www.instagram.com/ottoni_arthur/)
-[![Discord Badge](https://img.shields.io/badge/-ArthurHydr-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/arthur.cabrl/)](https://discordapp.com/users/677322869298167847/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur.Ottoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-ottoni-a62902207/)](https://www.linkedin.com/in/arthur-ottoni-a62902207/)
+[![Gmail Badge](https://img.shields.io/badge/-Contato.Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurottoniribeiro@gmail.com)](mailto:arthurottoniribeiro@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-ottoni.arthur-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ottoni_arthur/)](https://www.instagram.com/ottoni_arthur/)
+[![Discord Badge](https://img.shields.io/badge/-ArthurHydr-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/ottoni_arthur/)](https://discordapp.com/users/392470976853442575/)
 ---
 
 ### Olá! Seja bem vindo ao meu GitHub, é aqui onde deposito a maioria dos meus projetos de estudo, e será aqui onde verei o meu desenvolvimento diário.
