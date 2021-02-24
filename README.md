@@ -4,7 +4,7 @@
   <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=35% height=30% margin-top= 2rem />
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cabral-2730731a4/)](https://www.linkedin.com/in/arthur-cabral-2730731a4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur.Ottoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cabral-2730731a4/)](https://www.linkedin.com/in/arthur-cabral-2730731a4/)
 [![Gmail Badge](https://img.shields.io/badge/-ah.cbrl1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ah.cbrl1@gmail.com)](mailto:georgealanrufo@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-arthur.cabrl-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arthur.cabrl/)](https://www.instagram.com/arthur.cabrl/)
 [![Discord Badge](https://img.shields.io/badge/-arthur.cabrl-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/arthur.cabrl/)](https://discordapp.com/users/677322869298167847/)
