@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-ottoni-a62902207/)](https://www.linkedin.com/in/arthur-ottoni-2730731a4/)
 [![Gmail Badge](https://img.shields.io/badge/-contato-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurottoniribeiro@gmail.com)]
 [![Instagram Badge](https://img.shields.io/badge/-ottoni_arthur-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ottoni_arthur/)](https://www.instagram.com/ottoni_arthur/)
-[![Discord Badge](https://img.shields.io/badge/-arthur.cabrl-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/ottoni_arthur/)](https://discordapp.com/users/392470976853442575/)
+[![Discord Badge](https://img.shields.io/badge/-arthur.ottoni-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://www.instagram.com/ottoni_arthur/)](https://discordapp.com/users/392470976853442575/)
 ---
 
 ### Olá! Seja bem vindo ao meu GitHub, é aqui onde deposito a maioria dos meus projetos de estudo, e será aqui onde verei o meu desenvolvimento diário.
