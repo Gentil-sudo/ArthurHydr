@@ -19,7 +19,7 @@
 ---
 
 ### 📖 Sobre mim
-Meu nome é Arthur Ottoni Ribeiro, tenho 17 anos e sou estudante de "Segurança ofensiva" desde 2017. Atualmente estudo criação de aplicações web, utilizando as tecnologias: ReactJs, NodeJs, Javascript, Typescript. Também faço a parte do Back-end utilizando: Python, ruby, c, c++, c#.
+Meu nome é Arthur Ottoni Ribeiro, tenho 17 anos e sou estudante de "Segurança ofensiva" desde 2017. Atualmente estudo criação de aplicações web, utilizando as tecnologias: ReactJs, NodeJs, Javascript, Typescript. Também faço a parte do Back-end utilizando: Python, ruby e Node.
 </details>
 
 ---
