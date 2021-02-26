@@ -28,7 +28,7 @@ Meu nome é Arthur Ottoni Ribeiro, tenho 17 anos e sou estudante de "Segurança 
 
 <p align="center">
     
-  ![Top Langs]()
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHydr&layout=compact&theme=tokyonight)
 
 </p>
 
